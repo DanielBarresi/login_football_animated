@@ -39,13 +39,10 @@ Puoi aggiungere nuove immagini nella cartella `assets/` e aggiornare la lista ne
 
 <p align="center">
 	<img src="screen1.png" alt="Schermata 1" width="300" />
-	<img src="screen2.png" alt="Schermata 2" width="300" />
 	<img src="screen3.png" alt="Schermata 3" width="300" />
 	<img src="screen4.png" alt="Schermata 4" width="300" />
 	<img src="screen5.png" alt="Schermata 5" width="300" />
 </p>
-
-
 
 ## Autore
 
